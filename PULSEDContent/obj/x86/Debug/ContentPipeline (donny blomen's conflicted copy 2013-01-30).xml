@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Pulsed.png</Source>
+      <Name>Pulsed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\Pulsed.xnb</Output>
+      <Time>2012-11-27T11:00:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Knop.png</Source>
+      <Name>Buttonspare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\Buttonspare.xnb</Output>
+      <Time>2012-11-27T11:15:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>spuitje.png</Source>
+      <Name>Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\Button.xnb</Output>
+      <Time>2012-11-27T15:05:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Proftaak GroepsFoto.jpg</Source>
+      <Name>GroepsFoto</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\GroepsFoto.xnb</Output>
+      <Time>2012-12-18T11:05:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound - On.png</Source>
+      <Name>On</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\On.xnb</Output>
+      <Time>2012-12-18T11:23:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound - Off.png</Source>
+      <Name>Off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\Off.xnb</Output>
+      <Time>2012-12-18T11:23:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>empty hart.png</Source>
+      <Name>empty heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\empty heart.xnb</Output>
+      <Time>2013-01-08T10:43:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>full heart.png</Source>
+      <Name>full heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\full heart.xnb</Output>
+      <Time>2013-01-08T10:43:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>end.jpg</Source>
+      <Name>end</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\end.xnb</Output>
+      <Time>2013-01-08T11:50:57+01:00</Time>
+    </Item>
+    <Item>
+      <Source>RedBlock.png</Source>
+      <Name>RedBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\RedBlock.xnb</Output>
+      <Time>2013-01-08T12:35:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GreenBlock.png</Source>
+      <Name>GreenBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\GreenBlock.xnb</Output>
+      <Time>2013-01-08T12:42:01+01:00</Time>
+    </Item>
+    <Item>
+      <Source>OpenRectangle.png</Source>
+      <Name>OpenRectangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\OpenRectangle.xnb</Output>
+      <Time>2013-01-08T12:45:37+01:00</Time>
+    </Item>
+    <Item>
+      <Source>interface1.png</Source>
+      <Name>interface1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\interface1.xnb</Output>
+      <Time>2013-01-29T12:10:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>interface2.png</Source>
+      <Name>interface2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\interface2.xnb</Output>
+      <Time>2013-01-29T12:10:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TextBox.png</Source>
+      <Name>TextBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\TextBox.xnb</Output>
+      <Time>2013-01-29T14:33:51+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>Myfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\Myfont.xnb</Output>
+      <Time>2013-01-29T12:48:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>QuizSpritefont.spritefont</Source>
+      <Name>QuizSpritefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\QuizSpritefont.xnb</Output>
+      <Time>2013-01-29T12:48:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>fontAntwoorden</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\fontAntwoorden.xnb</Output>
+      <Time>2013-01-29T13:03:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont3.spritefont</Source>
+      <Name>instructionfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\instructionfont.xnb</Output>
+      <Time>2013-01-29T13:52:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont4.spritefont</Source>
+      <Name>usernameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\usernameFont.xnb</Output>
+      <Time>2013-01-29T15:41:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>heartbeat-01.mp3</Source>
+      <Name>heartbeat</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\heartbeat.xnb</Output>
+      <Time>2012-12-18T09:48:07+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSEDContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSEDContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Donny\Dropbox\Proftaak P2\Quiz Af\Code\PULSED\PULSED\PULSED\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-11-27T09:54:57.800779+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
